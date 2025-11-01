@@ -10,5 +10,6 @@ its a tool for copy pasting any existing artwork to any other place on wplace (i
 5. then one last time at the bottom left you want it to go.
 6. wait for the magic to happen. (it takes some time idk how to make it any faster) (its also in screenspace and uses the mouse rendering your pc useless while copying)
 
-<img width="124" height="416" alt="image" src="https://github.com/user-attachments/assets/d077b53d-5edf-4818-a616-da09f281afb0" />
-i copied this thing 7 times with it.
+<img width="523" height="565" alt="image" src="https://github.com/user-attachments/assets/be2a2ebc-1b13-4313-9856-6133fb4ab15c" />
+
+i copied this thing 43/117 times with it.
